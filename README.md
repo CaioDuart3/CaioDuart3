@@ -1,4 +1,4 @@
-<h2 align="left">hello, i am student of 3 semester in the University of Brasília and here you find my personal and professional projects.</h2>
+<h2 align="left">hello 👋 i am student of 3 semester in the University of Brasília 🇧🇷<br>      here you find my personal and professional projects 👊</h2>
 
 ###
 
