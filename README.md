@@ -13,11 +13,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
-<div align="center">
 # 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CaioDuart3&theme=dark&hide_border=false)<br/>
 These statistics are just here to encourage me to commit more. 😁
-</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
