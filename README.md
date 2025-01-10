@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the University of Brasília and I work as a Full-Stack developer. I am always looking for new challenges and learning in different areas of technology.<br><br>​😁​ Here on my profile, you will find my projects and contributions. Feel free to explore and find out more about what I'm working on!
+# About Me:
+Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the University of Brasília and I work as a Full-Stack developer. I am always looking for new challenges and learning in different areas of technology.<br><br>​😁​ Here on my profile, you will find my projects and contributions. Feel free to explore and find out more about what I'm working on!
 # 💻 Tech Stack:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
