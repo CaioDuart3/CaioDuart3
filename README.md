@@ -16,7 +16,7 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CaioDuart3&theme=dark&hide_border=false)<br/>
-These statistics are just here to encourage in my studies and me to commit more. 😁
+These statistics are just here to encourage me in my studies and help me commit more 😁
 
 
 
