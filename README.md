@@ -1,3 +1,9 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&width=435&lines=Hello%2C+World!+%F0%9F%8C%90+;Welcome+to+my+Github!+%F0%9F%91%8B+)](https://git.io/typing-svg)
+
+</div>
+
 # About Me:
 Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the University of Brasília and I work as a Full-Stack developer. I am always looking for new challenges and learning in different areas of technology.<br><br>​😁​ Here on my profile, you will find my projects and contributions. Feel free to explore and find out more about what I'm working on!
 # 💻 Tech Stack:
@@ -14,16 +20,22 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
 # 📊 GitHub Stats:
-
+<div align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CaioDuart3&theme=dark&hide_border=false)<br/>
 These statistics are just here to encourage me in my studies and help me commit more 😁
 
+</div>
+
+<div align="center">
+  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioduart3/caioduart3/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioduart3/caioduart3/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caioduart3/caioduart3/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
