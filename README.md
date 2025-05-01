@@ -18,6 +18,7 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CaioDuart3&theme=dark&hide_border=false)<br/>
 These statistics are just here to encourage me in my studies and help me commit more 😁
 
+![snake gif](https://github.com/CaioDuart3/CaioDuart3/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
