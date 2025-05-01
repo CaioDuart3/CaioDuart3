@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
+  workflow_dispatch:      # Permite rodar manualmente
 
 jobs:
   generate:
@@ -26,3 +26,5 @@ jobs:
           branch: output
           message: "generate contribution grid snake"
           add: "dist/github-contribution-grid-snake.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Usando o token armazenado
