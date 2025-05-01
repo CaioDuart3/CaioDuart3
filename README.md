@@ -24,10 +24,17 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
   
 These statistics are just here to encourage me in my studies and help me commit more 😁
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caioduart3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=caioduart3&theme=github_dark_dimmed&hide_border=false" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=caioduart3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=caioduart3&theme=github_dark_dimmed&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
 
 
 ![](https://github-profile-trophy.vercel.app/?username=caioduart3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
