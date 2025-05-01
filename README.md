@@ -22,8 +22,16 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=CaioDuart3&theme=dark&hide_border=false)<br/>
 These statistics are just here to encourage me in my studies and help me commit more 😁
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caioduart3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=caioduart3&theme=github_dark_dimmed&hide_border=false" />
+</p>
+
+
+![](https://github-profile-trophy.vercel.app/?username=caioduart3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 </div>
 
