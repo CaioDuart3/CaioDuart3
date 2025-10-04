@@ -5,7 +5,10 @@
 </div>
 
 # About Me:
+
 Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the University of Brasília and I work as a Full-Stack developer. I am always looking for new challenges and learning in different areas of technology.<br><br>​😁​ Here on my profile, you will find my projects and contributions. Feel free to explore and find out more about what I'm working on!
+
+
 # 💻 Tech Stack:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,7 +21,8 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  
+
+<!--
 # 📊 GitHub Stats:
 <div align="center">
   
@@ -41,9 +45,10 @@ These statistics are just here to encourage me in my studies and help me commit 
 
 
 </div>
+-->
 
 <div align="center">
-  
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioduart3/caioduart3/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioduart3/caioduart3/output/github-contribution-grid-snake-dark.svg">
