@@ -11,35 +11,23 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 
 # 💻 Tech Stack:
 
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="48"/> <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="NestJS" width="48"/> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="48"/> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" alt="Supabase" width="48"/> <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="48"/> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAiZAAZAA0" alt="Playwright" width="48"/> <img src="https://powerverseapps.com/wp-content/uploads/2024/04/power-bi-icon.png" alt="Power BI" width="48"/> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="48"/> <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Python" width="48"/> <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django" width="48"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" alt="Jupyter" width="48"/> <img src="https://www.svgrepo.com/show/373591/expo.svg" alt="Expo" width="48"/> <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="48"/> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="48"/>
+<# 💻 Tech Stack:
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-<!--
-# 📊 GitHub Stats:
-<div align="center">
-  
-These statistics are just here to encourage me in my studies and help me commit more 😁
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=caioduart3&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=caioduart3&theme=github_dark_dimmed&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
-
-
-![](https://github-profile-trophy.vercel.app/?username=caioduart3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-</div>
--->
 
 <div align="center">
 
