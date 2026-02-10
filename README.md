@@ -10,17 +10,11 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 
 
 # 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="48"/> <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="NestJS" width="48"/> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="48"/> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" alt="Supabase" width="48"/> <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="48"/> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAiZAAZAA0" alt="Playwright" width="48"/> <img src="https://powerverseapps.com/wp-content/uploads/2024/04/power-bi-icon.png" alt="Power BI" width="48"/> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="48"/> <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Python" width="48"/> <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django" width="48"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" alt="Jupyter" width="48"/> <img src="https://www.svgrepo.com/show/373591/expo.svg" alt="Expo" width="48"/> <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="48"/> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="48"/>
+
+
+
 
 <!--
 # 📊 GitHub Stats:
