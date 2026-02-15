@@ -11,8 +11,6 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 
 # 💻 Tech Stack:
 
-<# 💻 Tech Stack:
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,6 +37,9 @@ Hello, I'm Caio! <br><br>​🖥️​ I'm a Software Engineering student at the
 </picture>
 
 </div>
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
